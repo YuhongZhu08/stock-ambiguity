@@ -1,4 +1,4 @@
-These are some the codes I wrote for the 2 papers about stock ambiguity measurement and pricing.
+These are some codes I wrote for the 2 papers about stock ambiguity measurement and pricing.
 The second paper was published in “Frontiers of Economics in China” in 2021.
 
 
