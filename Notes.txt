@@ -1,0 +1,5 @@
+These are some the codes I wrote for the 2 papers about stock ambiguity measurement and pricing.
+The second paper was published in “Frontiers of Economics in China” in 2021.
+
+
+ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4039026 and https://iaren.sufe.edu.cn/c0/22/c8617a180258/page.htm

@@ -1,0 +1,12 @@
+
+
+"C:\Program Files\WinRAR\WinRAR.exe" x -r G:\高频原始数据2019\*.rar *SH000001* G:\Temp2019\
+
+
+"C:\Program Files\WinRAR\WinRAR.exe" x -r G:\高频原始数据20191\*.rar   G:\Temp20191\
+
+
+"C:\Program Files\WinRAR\WinRAR.exe" x -r G:\高频原始数据20192\*.rar   G:\Temp20192\
+
+
+20210805注：代码中，原始文件在G盘，输出文件在E盘
